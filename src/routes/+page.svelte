@@ -92,7 +92,6 @@
             position: absolute;
             color: #308434;
 						text-decoration-color: #802a3e;
-						/*border: 1px solid #2a802e;*/
             margin-top: -450px;
             font-size: 2rem;
             font-weight: 600;
